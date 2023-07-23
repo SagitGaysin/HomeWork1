@@ -144,4 +144,5 @@ public class Main {
         System.out.println("Кристина теперь получает " + salaryKristinaRaising + " рублей в месяц. Годовой доход вырос на " + incomeDifferenceKristina + " рублей");
         System.out.println();
         }
+
 }
